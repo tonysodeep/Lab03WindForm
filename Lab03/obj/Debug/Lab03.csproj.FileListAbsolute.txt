@@ -1,0 +1,15 @@
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\EntityFramework.dll
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\EntityFramework.xml
+C:\Users\hyngu\source\repos\Lab03\Lab03\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.CopyComplete
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\hyngu\source\repos\Lab03\Lab03\obj\Debug\Lab03.pdb
